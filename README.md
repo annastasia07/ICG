@@ -6,11 +6,9 @@
 
 1. log in 
 
-- log in details of employees [README.docx](https://github.com/annastasia07/ICG/files/6559298/README.docx)
-[README.docx](https://github.com/annastasia07/ICG/files/6559300/README.docx)
-[README.docx](https://github.com/annastasia07/ICG/files/6559301/README.docx)
-
+- log in details of employees
 -log in modules 
+https://shilongoaugust.wixsite.com/icg11-ayeshabc
 
 2. position 
 -samles modules 
@@ -72,9 +70,7 @@
 - new items
 - unavailable items
 
-**WEBSITE URL**
-- https://fransinator2002.wixsite.com/myicg56
-
+https://shilongoaugust.wixsite.com/icg11-ayeshabc
 
 **work done**
 -creation of modules,functions,pseudocode,website,README,trello by(221004351_frans nekongo)
